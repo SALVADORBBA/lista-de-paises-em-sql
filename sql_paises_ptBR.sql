@@ -1,4 +1,4 @@
-INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (004, 0093, "AF", "AFG", "Afeganistão", "República Islâmica do Afeganistão")
+INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (004, 0093, "AF", "AFG", "Afeganistão", "República Islâmica do Afeganistão")  // para mysql uso devemos colocar ; no final tipo "República da Albânia");
 INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (008, 0355, "AL", "ALB", "Albânia", "República da Albânia")
 INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (012, 0213, "DZ", "DZA", "Algéria", "República Democrática Popular da Algéria")
 INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (016, 1684, "AS", "ASM", "Samoa Americana", "Território de Samoa Americana")
@@ -236,4 +236,4 @@ INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (876, 0681, 
 INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (732, 0212, "EH", "ESH", "Saara Ocidental", "Saara Ocidental")
 INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (887, 0967, "YE", "YEM", "Iêmen", "República do Iêmen")
 INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (894, 0260, "ZM", "ZMB", "Zâmbia", "República do Zâmbia")
-INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (716, 0263, "ZW", "ZWE", "Zimbábue", "República do Zimbábue"}
+INSERT INTO PAIS (codigo, fone, iso, iso3, nome, nomeFormal) VALUES (716, 0263, "ZW", "ZWE", "Zimbábue", "República do Zimbábue") // essa ultima linha estava com } no local de )
